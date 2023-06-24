@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # UCLA CS269 2022 Fall Reinforcement Learning Course Project
 
 Project page:  https://ucla-rlcourse.github.io/CS269-projects-2022fall/
